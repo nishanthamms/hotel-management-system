@@ -1,0 +1,97 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jan 1, 2020, 11:13:40 PM
+    Author     : Nishantha
+*/
+
+ 
+
+html{
+  height:100%
+}
+body{
+  height:100%;
+}
+.intro{
+  height:100%
+}
+
+.left{
+    display : flex;
+    justify-content : center;
+    align-items : top;
+    background-color:#001a00;
+    color : #FFF;
+    padding-right: 25px;
+    padding-left: 30px;
+   
+}
+.right{
+  display : flex;
+  justify-content : center;
+  height:100%;
+  background-color:#E5EBF2;
+  color : #3d231b;
+  padding-right: 60px;
+  Padding-left: 90px;
+ 
+}
+.bothpadding{
+    padding-bottom:400px; 
+}
+
+.about{
+  display : flex;
+  justify-content : center;
+  align-items : center;
+  background-color:#000;
+  color : #FFF;
+  height:15%;
+  padding-left: 90px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color:#001a00;
+}
+
+li a {
+    display: block;
+    color: white;
+    padding: 12px 20px;
+    text-decoration: none;
+}
+
+li a.active {
+    background-color: #225081;
+    color: white;
+}
+
+.roomhead{
+    background-color: #428BCA;
+}
+.page-header {
+padding-bottom: 9px;
+margin: 10px 0 45px;
+border-bottom: 1px solid #C7D1DD;
+}
+.small-header{
+    color:#979797;
+}
+a:link{
+     text-decoration: none;
+}
+.ficon{
+    color:white;
+    padding-right: 20px;
+    
+}
+li a:hover:not(.active) {
+    background-color: #555;
+    color: white;
+}

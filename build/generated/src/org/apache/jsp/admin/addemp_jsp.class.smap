@@ -1,0 +1,13 @@
+SMAP
+addemp_jsp.java
+JSP
+*S JSP
+*F
++ 0 addemp.jsp
+admin/addemp.jsp
+*L
+5,21:48
+25,133:69
+158,25:203
+182,6:228
+*E

@@ -1,0 +1,13 @@
+SMAP
+deleteroom_jsp.java
+JSP
+*S JSP
+*F
++ 0 deleteroom.jsp
+admin/deleteroom.jsp
+*L
+5,21:48
+25,70:69
+96,15:141
+110,7:156
+*E

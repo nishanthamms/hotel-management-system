@@ -1,0 +1,13 @@
+SMAP
+delete_005femployee_jsp.java
+JSP
+*S JSP
+*F
++ 0 delete_employee.jsp
+admin/delete_employee.jsp
+*L
+5,21:48
+25,71:69
+97,15:142
+111,6:157
+*E

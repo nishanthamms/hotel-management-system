@@ -1,0 +1,17 @@
+SMAP
+reception_005fpayments_jsp.java
+JSP
+*S JSP
+*F
++ 0 reception_payments.jsp
+reception_payments.jsp
+*L
+5,22:49
+26,51:71
+79,9:125
+87,3:134
+90,8:137,3
+98,3:161
+102,6:166
+107,18:172
+*E
