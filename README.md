@@ -1,1 +1,1 @@
-This is basic hotel management system for RAD group project.
+This is basic hotel management system for Rapid Application Development group project.
